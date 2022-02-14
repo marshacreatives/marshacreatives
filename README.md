@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @marshacreatives
+-   I'm a graphic designer and front end web developer
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anyone on any project
