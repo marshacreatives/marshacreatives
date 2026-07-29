@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marshacreatives
+- 👋 Hi, I’m Emmanuel Masha
 -   I'm a graphic designer and  web developer
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently build Web Susyems and Websites
