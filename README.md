@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @marshacreatives
--   I'm a graphic designer and front end web developer
+-   I'm a graphic designer and  web developer
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently build Web Susyems and Websites
 - 💞️ I’m looking to collaborate on anyone on any project
-- 📫 How to reach me: Email:mashaldelmanuelz@gmail.com
+- 📫 How to reach me: Email:marshacreatives@gmail.com
+- website: www.marshacreatuves.co.ke
 
 <!---
 marshacreatives/marshacreatives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
