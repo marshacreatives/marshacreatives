@@ -4,7 +4,7 @@
 - 🌱 I’m currently build Web Susyems and Websites
 - 💞️ I’m looking to collaborate on anyone on any project
 - 📫 How to reach me: Email:marshacreatives@gmail.com
-- website: www.marshacreatuves.co.ke
+- website: www.marshacreatives.co.ke
 
 <!---
 marshacreatives/marshacreatives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
