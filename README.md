@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Masha
 -   I'm a graphic designer and  web developer
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently build Web Susyems and Websites
+- 🌱 I’m currently build Web Systems and Websites
 - 💞️ I’m looking to collaborate on anyone on any project
 - 📫 How to reach me: Email:marshacreatives@gmail.com
 - website: www.marshacreatives.co.ke
