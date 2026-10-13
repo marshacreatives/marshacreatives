@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Emmanuel Masha
--   I'm a graphic designer and  web developer
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently build Web Systems and Websites
+- 👨🏻‍💻  I'm a graphic & Web designer 
+- 👀 I’m currently running an agency "Marsha Creatives"
+- 🌱 I’m currently building Websites & Web Systems
 - 💞️ I’m looking to collaborate on anyone on any project
 - 📫 How to reach me: Email:marshacreatives@gmail.com
-- website: www.marshacreatives.co.ke
+- 🌐 website: www.marshacreatives.co.ke
 
 <!---
 marshacreatives/marshacreatives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
